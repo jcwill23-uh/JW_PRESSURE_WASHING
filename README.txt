@@ -21,8 +21,8 @@ This is a simple static website ready for GitHub Pages.
 6. Save.
 7. After a minute or two, your site should be live.
 
-Your URL will usually look like:
-`https://YOUR-GITHUB-USERNAME.github.io/jw-pressure-washing/`
+URL:
+`https://jcwill23-uh.github.io/jw-pressure-washing/`
 
 ### Option 2: User site
 If you want the cleanest URL possible:
